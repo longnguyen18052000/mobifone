@@ -1,0 +1,29 @@
+.container{
+    background-color: #F0F0FF;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign_up{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 6px;
+    background: transparent linear-gradient(180deg,#00917a 0%,#00483d 100%) 0% 0% no-repeat padding-box;
+    color: white;
+}
+
+.sign_in{
+    border: 1px solid black;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: black;
+}
+
+.fromInput{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

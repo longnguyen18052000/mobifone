@@ -1,0 +1,33 @@
+.click{
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.detail td{
+    border: 1px solid;
+    padding: 4px;
+}
+
+.detail th{
+    font-weight: 500;
+    border: 1px solid;
+    padding: 4px;
+}
+
+/* input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+} */
+
+.handle ul{
+    color: "#2B6CC2"
+}
+
+.handle button{
+    width: 182px;
+    outline: none;
+}
+
+.handle {
+    font-size: 14px;
+}
